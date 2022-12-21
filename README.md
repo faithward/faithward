@@ -1,6 +1,6 @@
 [![MasterHead](header.png)](github.com/faithward/README.md)
 
-### 💻 I've been coding for 4+ years now and love the puzzles that come along with it. I use technology to communicate ideas and create socially-aware solutions. I hope to contribute to more community-driven projects 🫂
+### 💻 I've been coding for 4+ years now and love the puzzles that come along with it. I use technology to communicate ideas and create socially-aware solutions. I hope to contribute to more community-driven projects for the greater good 🫂
 
 **🛠️ Comfortable working with:**
 - HTML/CSS and Bootstrap
