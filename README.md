@@ -1,6 +1,4 @@
-### Hello!
-
-#### I'm Faith, a Full Stack Developer
+[![MasterHead](image.png)](github.com/faithward)
 
 **I've been coding for 4+ years now and love the puzzles that come along with it. I use technology to communicate ideas and create socially-aware solutions.** 
 
