@@ -1,8 +1,8 @@
 [![MasterHead](header.png)](github.com/faithward/README.md)
 
-**💻 I've been coding for 4+ years now and love the puzzles that come along with it. I use technology to communicate ideas and create socially-aware solutions. I hope to contribute to more community-driven projects 🫂** 
+### 💻 I've been coding for 4+ years now and love the puzzles that come along with it. I use technology to communicate ideas and create socially-aware solutions. I hope to contribute to more community-driven projects 🫂
 
-🛠️ Comfortable working with:
+**🛠️ Comfortable working with:**
 - HTML/CSS and Bootstrap
 - Node.js and React.js
 - Flask and SQLAlchemy
@@ -11,7 +11,7 @@
 - Bash and Vim
 - Data Structures
 
-💪 Currently working on:
+**💪 Currently working on:**
 - Expanding my knowledge of AWS
 - Backend improvements to WordSword project
   - Web-based tool to take in documents and condense them without losing meaning
