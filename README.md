@@ -1,20 +1,25 @@
 [![MasterHead](header.png)](github.com/faithward/README.md)
 
-**I've been coding for 4+ years now and love the puzzles that come along with it. I use technology to communicate ideas and create socially-aware solutions.** 
+**I've been coding for 4+ years now and love the puzzles that come along with it. I use technology to communicate ideas and create socially-aware solutions. I hope to contribute to more community-driven projects.** 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faithward&layout=compact)](https://github.com/faithward/github-readme-stats)
 
-Education:
-- B.A. in Comparative American Studies, *Oberlin College*
-  - Minor in Computer Science
-  - Minor in Gender, Sexuality, and Feminist Studies
-- Certificate in Full Stack Software Development, *4Geeks Academy*
+Comfortable working with:
+- Node.js and React.js
+- Flask and SQLAlchemy
+- C/C++
+- Java
+- Bash and Vim
+- Data Structures
 
 Currently working on:
+- Expanding my knowledge of AWS
 - Backend improvements to WordSword project
   - Web-based tool to take in documents and condense them without losing meaning
 - Frontend improvements to Florida Man Mythos website
   - Digital archive tracing history and implications of sunshine state stereotypes
-- Expanding my knowledge of AWS
 - Helping some friends revamp the website for their mental health organization
+
+**You can learn more and connect with me on [LinkedIn](https://www.linkedin.com/in/faithwardtech)**
 
 <!--
 **faithward/faithward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,5 +35,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faithward)](https://github.com/faithward/github-readme-stats)
+
 [![Faith's GitHub stats](https://github-readme-stats.vercel.app/api?username=faithward&hide=stars,issues)](https://github.com/faith/github-readme-stats)
