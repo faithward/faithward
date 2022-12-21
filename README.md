@@ -1,9 +1,9 @@
 [![MasterHead](header.png)](github.com/faithward/README.md)
 
 **I've been coding for 4+ years now and love the puzzles that come along with it. I use technology to communicate ideas and create socially-aware solutions. I hope to contribute to more community-driven projects.** 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faithward&layout=compact)](https://github.com/faithward/github-readme-stats)
 
 Comfortable working with:
+- HTML/CSS and Bootstrap
 - Node.js and React.js
 - Flask and SQLAlchemy
 - C/C++
@@ -36,4 +36,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faithward&layout=compact)](https://github.com/faithward/github-readme-stats)
 [![Faith's GitHub stats](https://github-readme-stats.vercel.app/api?username=faithward&hide=stars,issues)](https://github.com/faith/github-readme-stats)
