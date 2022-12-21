@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faithward)](https://github.com/faithward/github-readme-stats)
 [![Faith's GitHub stats](https://github-readme-stats.vercel.app/api?username=faithward&hide=stars,issues)](https://github.com/faith/github-readme-stats)
