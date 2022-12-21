@@ -13,6 +13,7 @@
 
 **💪 Currently working on:**
 - Expanding my knowledge of AWS
+- Learning C# for video game development
 - Backend improvements to WordSword project
   - Web-based tool to take in documents and condense them without losing meaning
 - Frontend improvements to Florida Man Mythos website
