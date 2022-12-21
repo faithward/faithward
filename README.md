@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello!
+
+#### I'm Faith, a Full Stack Developer
+
+**I've been coding for 4+ years now and love the puzzles that come along with it. I use technology to communicate ideas and create socially-aware solutions.** 
 
 <!--
 **faithward/faithward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Faith's GitHub stats](https://github-readme-stats.vercel.app/api?username=faithward&count_private=true)](https://github.com/faith/github-readme-stats)
+[![Faith's GitHub stats](https://github-readme-stats.vercel.app/api?username=faithward&hide=stars,issues)](https://github.com/faith/github-readme-stats)
