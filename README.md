@@ -2,6 +2,20 @@
 
 **I've been coding for 4+ years now and love the puzzles that come along with it. I use technology to communicate ideas and create socially-aware solutions.** 
 
+Education:
+-B.A. in Comparative American Studies, *Oberlin College*
+  -Minor in Computer Science
+  -Minor in Gender, Sexuality, and Feminist Studies
+-Certificate in Full Stack Software Development, *4Geeks Academy*
+
+Currently working on:
+-Backend improvements to WordSword project
+  -Web-based tool to take in documents and condense them without losing meaning
+-Frontend improvements to Florida Man Mythos website
+  -Digital archive tracing history and implications of sunshine state stereotypes
+-Expanding my knowledge of AWS
+-Helping some friends revamp the website for their mental health organization
+
 <!--
 **faithward/faithward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
