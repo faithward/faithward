@@ -13,15 +13,14 @@
 
 **Projects:**
 - [WordSword](wordsword.herokuapp.com), a web application built using React.js, Node.js, and Flask that returns condensed versions of user-inputted texts without sacrificing meaning. Repository available [here](https://github.com/faithward/WordSword)
-- [Florida Man Mythos](floridamanymythos.com), a digital archive of cultural history tracing the origins of the "Florida Man" legend. Self-researched and built using HTML, CSS, Bootstrap, and JavaScript
+- [Florida Man Mythos](floridamanymythos.com), a digital archive of cultural history tracing the origins of the "Florida Man" legend. Self-researched and built using HTML, CSS, Bootstrap, and JavaScript. Repository available [here](https://github.com/faithward/floridamanphenom)
 
 **💪 Currently working on:**
 - Expanding my knowledge of AWS
-- Learning C# for video game development
+- Learning .NET
+- Studying video game development
 - Backend improvements to WordSword project
-  - Web-based tool to take in documents and condense them without losing meaning
 - Frontend improvements to Florida Man Mythos website
-  - Digital archive tracing history and implications of sunshine state stereotypes
 - Helping some friends revamp the website for their mental health organization
 
 **✉️ You can learn more and connect with me on [LinkedIn](https://www.linkedin.com/in/faithwardtech)**
